@@ -1,3 +1,3 @@
 import("./bootstrap");
 
-console.log("Container ...");
+console.log("Container app ...");
